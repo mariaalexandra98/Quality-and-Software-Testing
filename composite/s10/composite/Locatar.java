@@ -1,7 +1,6 @@
-package composite.s10;
+package practice.composite.s10.composite;
 
 public class Locatar extends LocatarAbstract {
-    private String nume;
 
     public Locatar(String nume) {
         this.nume = nume;

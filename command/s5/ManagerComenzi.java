@@ -1,4 +1,4 @@
-package command.s5;
+package practice.command.s5;
 
 import java.util.ArrayList;
 import java.util.List;

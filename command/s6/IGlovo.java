@@ -1,4 +1,4 @@
-package command.s6;
+package practice.command.s6;
 
 public interface IGlovo {
 	public void getListaCumparaturi(String listaCumparaturi);

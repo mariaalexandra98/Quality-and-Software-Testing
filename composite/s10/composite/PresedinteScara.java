@@ -1,11 +1,10 @@
-package composite.s10;
+package practice.composite.s10.composite;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class PresedinteScara extends LocatarAbstract implements ILocatarCategorie {
     private int vechime;
-    private String nume;
     private List<LocatarAbstract> locatariDeScara;
 
     public PresedinteScara(int vechime, String nume) {

@@ -1,4 +1,4 @@
-package command.practice;
+package practice.command.practice;
 
 public class TestareCommand {
     public static void main(String[] args) {

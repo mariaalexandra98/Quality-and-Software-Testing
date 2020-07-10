@@ -1,4 +1,4 @@
-package command.s6;
+package practice.command.s6;
 
 public class Curier implements ILivrareComanda{
     private String nume;

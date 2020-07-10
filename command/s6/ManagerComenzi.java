@@ -1,4 +1,4 @@
-package command.s6;
+package practice.command.s6;
 
 import java.util.ArrayList;
 import java.util.List;

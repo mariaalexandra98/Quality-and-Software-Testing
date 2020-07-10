@@ -1,4 +1,4 @@
-package command.practice;
+package practice.command.practice;
 
 public class ComandaTratare implements IComanda{
     private IMedic medic;

@@ -1,4 +1,4 @@
-package composite.s10;
+package practice.composite.s10.composite;
 
 public class TestareCompositeS10 {
     public static void main(String[] args) {

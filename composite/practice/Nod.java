@@ -1,4 +1,4 @@
-package composite.practice;
+package practice.composite.practice;
 
 public interface Nod {
     void adaugaNod(Nod categorie);

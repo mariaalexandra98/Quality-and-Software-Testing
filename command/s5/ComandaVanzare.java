@@ -1,4 +1,4 @@
-package command.s5;
+package practice.command.s5;
 
 public class ComandaVanzare implements IComanda {
     private IClientBursa clientBursa;

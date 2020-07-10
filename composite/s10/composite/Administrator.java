@@ -1,10 +1,9 @@
-package composite.s10;
+package practice.composite.s10.composite;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class Administrator extends LocatarAbstract implements ILocatarCategorie {
-    private String nume;
     private boolean isPensionat;
     private List<LocatarAbstract> locatari;
 

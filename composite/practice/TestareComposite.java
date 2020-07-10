@@ -1,4 +1,4 @@
-package composite.practice;
+package practice.composite.practice;
 
 public class TestareComposite {
     public static void main(String[] args) {

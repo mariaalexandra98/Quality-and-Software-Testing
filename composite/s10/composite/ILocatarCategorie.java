@@ -1,4 +1,4 @@
-package composite.s10;
+package practice.composite.s10.composite;
 
 public interface ILocatarCategorie {
     void adaugaCategorieLocatar(LocatarAbstract locatar);

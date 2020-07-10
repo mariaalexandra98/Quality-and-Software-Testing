@@ -1,4 +1,4 @@
-package composite.practice;
+package practice.composite.practice;
 
 import java.util.ArrayList;
 import java.util.List;

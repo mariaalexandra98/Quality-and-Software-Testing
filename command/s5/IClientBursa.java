@@ -1,4 +1,4 @@
-package command.s5;
+package practice.command.s5;
 
 public interface IClientBursa {
 	public void vinde(String codActiuni, int nrActiuni);

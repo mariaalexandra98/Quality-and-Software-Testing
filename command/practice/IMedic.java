@@ -1,4 +1,4 @@
-package command.practice;
+package practice.command.practice;
 
 public interface IMedic {
     public void internare(String numePacient);
